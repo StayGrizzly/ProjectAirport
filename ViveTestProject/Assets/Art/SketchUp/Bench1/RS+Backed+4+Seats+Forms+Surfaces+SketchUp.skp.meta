@@ -1,0 +1,192 @@
+fileFormatVersion: 2
+guid: 69c5be56265d7a4449c73a67df613a26
+timeCreated: 1457368282
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000
+  assetHash:
+    serializedVersion: 2
+    Hash: dce1c1afc5df16f021b7a8f399f60ec4
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 3.8906593, y: 1.4368947, z: -1.5119133}
+      lookAt: {x: 1.7557817, y: 0.36945587, z: 0.6229644}
+      up: {x: -0.23570226, y: 0.94280905, z: 0.23570226}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: backed seat
+    100002: backed seat 1
+    100004: backed seat 2
+    100006: backed seat 3
+    100008: beam
+    100010: beam 1
+    100012: beam 2
+    100014: beam 3
+    100016: connector
+    100018: connector 1
+    100020: connector 2
+    100022: Cylindrical Mounting Post
+    100024: Cylindrical Mounting Post 1
+    100026: Group 1
+    100028: Group 13
+    100030: Group 2
+    100032: Group 22
+    100034: Group 33
+    100036: //RootNode
+    100038: underseat support
+    100040: underseat support 1
+    100042: underseat support 2
+    100044: underseat support 3
+    100046: underseat support 4
+    100048: underseat support 5
+    100050: underseat support 6
+    100052: underseat support 7
+    400000: backed seat
+    400002: backed seat 1
+    400004: backed seat 2
+    400006: backed seat 3
+    400008: beam
+    400010: beam 1
+    400012: beam 2
+    400014: beam 3
+    400016: connector
+    400018: connector 1
+    400020: connector 2
+    400022: Cylindrical Mounting Post
+    400024: Cylindrical Mounting Post 1
+    400026: Group 1
+    400028: Group 13
+    400030: Group 2
+    400032: Group 22
+    400034: Group 33
+    400036: //RootNode
+    400038: underseat support
+    400040: underseat support 1
+    400042: underseat support 2
+    400044: underseat support 3
+    400046: underseat support 4
+    400048: underseat support 5
+    400050: underseat support 6
+    400052: underseat support 7
+    2300000: backed seat
+    2300002: backed seat 1
+    2300004: backed seat 2
+    2300006: backed seat 3
+    2300008: beam
+    2300010: beam 1
+    2300012: beam 2
+    2300014: beam 3
+    2300016: connector
+    2300018: connector 1
+    2300020: connector 2
+    2300022: Cylindrical Mounting Post
+    2300024: Cylindrical Mounting Post 1
+    2300026: underseat support
+    2300028: underseat support 1
+    2300030: underseat support 2
+    2300032: underseat support 3
+    2300034: underseat support 4
+    2300036: underseat support 5
+    2300038: underseat support 6
+    2300040: underseat support 7
+    3300000: backed seat
+    3300002: backed seat 1
+    3300004: backed seat 2
+    3300006: backed seat 3
+    3300008: beam
+    3300010: beam 1
+    3300012: beam 2
+    3300014: beam 3
+    3300016: connector
+    3300018: connector 1
+    3300020: connector 2
+    3300022: Cylindrical Mounting Post
+    3300024: Cylindrical Mounting Post 1
+    3300026: underseat support
+    3300028: underseat support 1
+    3300030: underseat support 2
+    3300032: underseat support 3
+    3300034: underseat support 4
+    3300036: underseat support 5
+    3300038: underseat support 6
+    3300040: underseat support 7
+    4300000: Mesh beam
+    4300002: Mesh backed seat
+    4300004: Mesh underseat support
+    4300006: Mesh Cylindrical Mounting Post
+    4300008: Mesh connector
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.02921
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

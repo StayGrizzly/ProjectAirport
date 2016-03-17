@@ -1,0 +1,498 @@
+fileFormatVersion: 2
+guid: 37a3e263078c191499146bc44fa12d28
+timeCreated: 1457114699
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 6b797a2fd2e6a2f19b3eb4f831b65697
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -13.61073, y: 12.834087, z: -18.19911}
+      lookAt: {x: 4.5920296, y: 3.746595, z: -4.478402}
+      up: {x: 0.29572222, y: 0.9289031, z: 0.22290677}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 6-12 step
+    100002: 6-12 step 1
+    100004: 6-12 step 10
+    100006: 6-12 step 11
+    100008: 6-12 step 12
+    100010: 6-12 step 13
+    100012: 6-12 step 14
+    100014: 6-12 step 15
+    100016: 6-12 step 16
+    100018: 6-12 step 17
+    100020: 6-12 step 18
+    100022: 6-12 step 19
+    100024: 6-12 step 2
+    100026: 6-12 step 3
+    100028: 6-12 step 4
+    100030: 6-12 step 5
+    100032: 6-12 step 6
+    100034: 6-12 step 7
+    100036: 6-12 step 8
+    100038: 6-12 step 9
+    100040: A2
+    100042: //RootNode
+    100044: belt_half
+    100046: belt_half 1
+    100048: BigWindows
+    100050: button
+    100052: button 1
+    100054: button 2
+    100056: button 3
+    100058: button 4
+    100060: chair_half1
+    100062: chair_half1 1
+    100064: chair_half2
+    100066: chair_half2 1
+    100068: chair_wheel
+    100070: chair_wheel 1
+    100072: chair_wheel 2
+    100074: chair_wheel 3
+    100076: chair_wheel 4
+    100078: check in counter
+    100080: Component#1
+    100082: Component#2
+    100084: Component#3
+    100086: Component#3 1
+    100088: Component#6
+    100090: Component#6 1
+    100092: Component#7
+    100094: Component#7 1
+    100096: Computer_Desktop_iMac
+    100098: Computer_Desktop_iMac_DomeBase
+    100100: CurvedWindows
+    100102: Fabric office chair
+    100104: GateA2
+    100106: Group 110
+    100108: Group 112
+    100110: Group 117
+    100112: Group 40
+    100114: Group 42
+    100116: Keyboard
+    100118: knob
+    100120: knob 1
+    100122: knob 2
+    100124: knob 3
+    100126: Luggage x-ray machine
+    100128: metal table
+    100130: metal table 1
+    100132: SecurityCheck
+    100134: side
+    100136: side 1
+    100138: Sophie
+    100140: Stairs
+    100142: TV_FlatScreen_42in#1
+    100144: vinyl flap
+    100146: vinyl flap 1
+    100148: vinyl flap 10
+    100150: vinyl flap 11
+    100152: vinyl flap 12
+    100154: vinyl flap 13
+    100156: vinyl flap 14
+    100158: vinyl flap 15
+    100160: vinyl flap 16
+    100162: vinyl flap 17
+    100164: vinyl flap 18
+    100166: vinyl flap 19
+    100168: vinyl flap 2
+    100170: vinyl flap 3
+    100172: vinyl flap 4
+    100174: vinyl flap 5
+    100176: vinyl flap 6
+    100178: vinyl flap 7
+    100180: vinyl flap 8
+    100182: vinyl flap 9
+    100184: Walk through metal detector
+    100186: wheel
+    100188: wheel 1
+    100190: wheel 2
+    100192: wheel 3
+    400000: 6-12 step
+    400002: 6-12 step 1
+    400004: 6-12 step 10
+    400006: 6-12 step 11
+    400008: 6-12 step 12
+    400010: 6-12 step 13
+    400012: 6-12 step 14
+    400014: 6-12 step 15
+    400016: 6-12 step 16
+    400018: 6-12 step 17
+    400020: 6-12 step 18
+    400022: 6-12 step 19
+    400024: 6-12 step 2
+    400026: 6-12 step 3
+    400028: 6-12 step 4
+    400030: 6-12 step 5
+    400032: 6-12 step 6
+    400034: 6-12 step 7
+    400036: 6-12 step 8
+    400038: 6-12 step 9
+    400040: A2
+    400042: //RootNode
+    400044: belt_half
+    400046: belt_half 1
+    400048: BigWindows
+    400050: button
+    400052: button 1
+    400054: button 2
+    400056: button 3
+    400058: button 4
+    400060: chair_half1
+    400062: chair_half1 1
+    400064: chair_half2
+    400066: chair_half2 1
+    400068: chair_wheel
+    400070: chair_wheel 1
+    400072: chair_wheel 2
+    400074: chair_wheel 3
+    400076: chair_wheel 4
+    400078: check in counter
+    400080: Component#1
+    400082: Component#2
+    400084: Component#3
+    400086: Component#3 1
+    400088: Component#6
+    400090: Component#6 1
+    400092: Component#7
+    400094: Component#7 1
+    400096: Computer_Desktop_iMac
+    400098: Computer_Desktop_iMac_DomeBase
+    400100: CurvedWindows
+    400102: Fabric office chair
+    400104: GateA2
+    400106: Group 110
+    400108: Group 112
+    400110: Group 117
+    400112: Group 40
+    400114: Group 42
+    400116: Keyboard
+    400118: knob
+    400120: knob 1
+    400122: knob 2
+    400124: knob 3
+    400126: Luggage x-ray machine
+    400128: metal table
+    400130: metal table 1
+    400132: SecurityCheck
+    400134: side
+    400136: side 1
+    400138: Sophie
+    400140: Stairs
+    400142: TV_FlatScreen_42in#1
+    400144: vinyl flap
+    400146: vinyl flap 1
+    400148: vinyl flap 10
+    400150: vinyl flap 11
+    400152: vinyl flap 12
+    400154: vinyl flap 13
+    400156: vinyl flap 14
+    400158: vinyl flap 15
+    400160: vinyl flap 16
+    400162: vinyl flap 17
+    400164: vinyl flap 18
+    400166: vinyl flap 19
+    400168: vinyl flap 2
+    400170: vinyl flap 3
+    400172: vinyl flap 4
+    400174: vinyl flap 5
+    400176: vinyl flap 6
+    400178: vinyl flap 7
+    400180: vinyl flap 8
+    400182: vinyl flap 9
+    400184: Walk through metal detector
+    400186: wheel
+    400188: wheel 1
+    400190: wheel 2
+    400192: wheel 3
+    2300000: 6-12 step
+    2300002: 6-12 step 1
+    2300004: 6-12 step 10
+    2300006: 6-12 step 11
+    2300008: 6-12 step 12
+    2300010: 6-12 step 13
+    2300012: 6-12 step 14
+    2300014: 6-12 step 15
+    2300016: 6-12 step 16
+    2300018: 6-12 step 17
+    2300020: 6-12 step 18
+    2300022: 6-12 step 19
+    2300024: 6-12 step 2
+    2300026: 6-12 step 3
+    2300028: 6-12 step 4
+    2300030: 6-12 step 5
+    2300032: 6-12 step 6
+    2300034: 6-12 step 7
+    2300036: 6-12 step 8
+    2300038: 6-12 step 9
+    2300040: A2
+    2300042: belt_half
+    2300044: belt_half 1
+    2300046: BigWindows
+    2300048: button
+    2300050: button 1
+    2300052: button 2
+    2300054: button 3
+    2300056: button 4
+    2300058: chair_half1
+    2300060: chair_half1 1
+    2300062: chair_half2
+    2300064: chair_half2 1
+    2300066: chair_wheel
+    2300068: chair_wheel 1
+    2300070: chair_wheel 2
+    2300072: chair_wheel 3
+    2300074: chair_wheel 4
+    2300076: check in counter
+    2300078: Component#1
+    2300080: Component#2
+    2300082: Component#3
+    2300084: Component#3 1
+    2300086: Component#6
+    2300088: Component#6 1
+    2300090: Component#7
+    2300092: Component#7 1
+    2300094: Computer_Desktop_iMac_DomeBase
+    2300096: CurvedWindows
+    2300098: Fabric office chair
+    2300100: GateA2
+    2300102: Group 110
+    2300104: Group 117
+    2300106: Group 40
+    2300108: Group 42
+    2300110: Keyboard
+    2300112: knob
+    2300114: knob 1
+    2300116: knob 2
+    2300118: knob 3
+    2300120: metal table
+    2300122: metal table 1
+    2300124: side
+    2300126: side 1
+    2300128: Sophie
+    2300130: Stairs
+    2300132: TV_FlatScreen_42in#1
+    2300134: vinyl flap
+    2300136: vinyl flap 1
+    2300138: vinyl flap 10
+    2300140: vinyl flap 11
+    2300142: vinyl flap 12
+    2300144: vinyl flap 13
+    2300146: vinyl flap 14
+    2300148: vinyl flap 15
+    2300150: vinyl flap 16
+    2300152: vinyl flap 17
+    2300154: vinyl flap 18
+    2300156: vinyl flap 19
+    2300158: vinyl flap 2
+    2300160: vinyl flap 3
+    2300162: vinyl flap 4
+    2300164: vinyl flap 5
+    2300166: vinyl flap 6
+    2300168: vinyl flap 7
+    2300170: vinyl flap 8
+    2300172: vinyl flap 9
+    2300174: wheel
+    2300176: wheel 1
+    2300178: wheel 2
+    2300180: wheel 3
+    3300000: 6-12 step
+    3300002: 6-12 step 1
+    3300004: 6-12 step 10
+    3300006: 6-12 step 11
+    3300008: 6-12 step 12
+    3300010: 6-12 step 13
+    3300012: 6-12 step 14
+    3300014: 6-12 step 15
+    3300016: 6-12 step 16
+    3300018: 6-12 step 17
+    3300020: 6-12 step 18
+    3300022: 6-12 step 19
+    3300024: 6-12 step 2
+    3300026: 6-12 step 3
+    3300028: 6-12 step 4
+    3300030: 6-12 step 5
+    3300032: 6-12 step 6
+    3300034: 6-12 step 7
+    3300036: 6-12 step 8
+    3300038: 6-12 step 9
+    3300040: A2
+    3300042: belt_half
+    3300044: belt_half 1
+    3300046: BigWindows
+    3300048: button
+    3300050: button 1
+    3300052: button 2
+    3300054: button 3
+    3300056: button 4
+    3300058: chair_half1
+    3300060: chair_half1 1
+    3300062: chair_half2
+    3300064: chair_half2 1
+    3300066: chair_wheel
+    3300068: chair_wheel 1
+    3300070: chair_wheel 2
+    3300072: chair_wheel 3
+    3300074: chair_wheel 4
+    3300076: check in counter
+    3300078: Component#1
+    3300080: Component#2
+    3300082: Component#3
+    3300084: Component#3 1
+    3300086: Component#6
+    3300088: Component#6 1
+    3300090: Component#7
+    3300092: Component#7 1
+    3300094: Computer_Desktop_iMac_DomeBase
+    3300096: CurvedWindows
+    3300098: Fabric office chair
+    3300100: GateA2
+    3300102: Group 110
+    3300104: Group 117
+    3300106: Group 40
+    3300108: Group 42
+    3300110: Keyboard
+    3300112: knob
+    3300114: knob 1
+    3300116: knob 2
+    3300118: knob 3
+    3300120: metal table
+    3300122: metal table 1
+    3300124: side
+    3300126: side 1
+    3300128: Sophie
+    3300130: Stairs
+    3300132: TV_FlatScreen_42in#1
+    3300134: vinyl flap
+    3300136: vinyl flap 1
+    3300138: vinyl flap 10
+    3300140: vinyl flap 11
+    3300142: vinyl flap 12
+    3300144: vinyl flap 13
+    3300146: vinyl flap 14
+    3300148: vinyl flap 15
+    3300150: vinyl flap 16
+    3300152: vinyl flap 17
+    3300154: vinyl flap 18
+    3300156: vinyl flap 19
+    3300158: vinyl flap 2
+    3300160: vinyl flap 3
+    3300162: vinyl flap 4
+    3300164: vinyl flap 5
+    3300166: vinyl flap 6
+    3300168: vinyl flap 7
+    3300170: vinyl flap 8
+    3300172: vinyl flap 9
+    3300174: wheel
+    3300176: wheel 1
+    3300178: wheel 2
+    3300180: wheel 3
+    4300000: Mesh Sophie
+    4300002: Mesh CurvedWindows
+    4300004: Mesh BigWindows
+    4300006: Mesh check in counter
+    4300008: Mesh Keyboard
+    4300010: Mesh Computer_Desktop_iMac_DomeBase
+    4300012: Mesh Component#3
+    4300014: Mesh Component#1
+    4300016: Mesh Component#2
+    4300018: Mesh TV_FlatScreen_42in#1
+    4300020: Mesh button
+    4300022: Mesh GateA2
+    4300024: Mesh A2
+    4300026: Mesh Stairs
+    4300028: Mesh Group 40
+    4300030: Mesh Group 42
+    4300032: Mesh 6-12 step
+    4300034: Mesh Fabric office chair
+    4300036: Mesh chair_half1
+    4300038: Mesh chair_half2
+    4300040: Mesh chair_wheel
+    4300042: Mesh metal table
+    4300044: Mesh Group 110
+    4300046: Mesh belt_half
+    4300048: Mesh Group 117
+    4300050: Mesh wheel
+    4300052: Mesh side
+    4300054: Mesh knob
+    4300056: Mesh vinyl flap
+    4300058: Mesh Component#6
+    4300060: Mesh Component#7
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

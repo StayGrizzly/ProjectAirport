@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: 01c737c2c8776ec47a397e363d3f7ced
+timeCreated: 1457369607
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f0000001000000011000000120000001300000014000000150000001600000017000000
+  assetHash:
+    serializedVersion: 2
+    Hash: c23aa98ea025962f1c3854ec877b2b68
+  longitude: -46.65
+  latitude: -23.55
+  northCorrection: 145.59999999999994
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -15.130631, y: 9.512078, z: -20.976845}
+      lookAt: {x: 0.7906782, y: 1.5833812, z: 0.8047149}
+      up: {x: 0.16638233, y: 0.9594292, z: 0.22762366}
+      fov: 45
+      aspectRatio: 0
+      orthoSize: 124.41531
+      isPerspective: 0
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 3d tree - apple tree
+    100002: Componente#4
+    100004: //RootNode
+    100006: Obj_000001#1
+    100008: Obj_000002#1
+    100010: objArch31_#3
+    100012: objArch31_#4
+    100014: objArch31_#5
+    100016: objArch31_#6
+    100018: objArch31_#7
+    100020: objArch31_#8
+    100022: objArch31_#9
+    100024: Plant#2
+    100026: skp2BBD
+    400000: 3d tree - apple tree
+    400002: Componente#4
+    400004: //RootNode
+    400006: Obj_000001#1
+    400008: Obj_000002#1
+    400010: objArch31_#3
+    400012: objArch31_#4
+    400014: objArch31_#5
+    400016: objArch31_#6
+    400018: objArch31_#7
+    400020: objArch31_#8
+    400022: objArch31_#9
+    400024: Plant#2
+    400026: skp2BBD
+    2300000: Componente#4
+    2300002: Obj_000001#1
+    2300004: Obj_000002#1
+    2300006: objArch31_#3
+    2300008: objArch31_#4
+    2300010: objArch31_#5
+    2300012: objArch31_#6
+    2300014: objArch31_#7
+    2300016: objArch31_#8
+    2300018: objArch31_#9
+    3300000: Componente#4
+    3300002: Obj_000001#1
+    3300004: Obj_000002#1
+    3300006: objArch31_#3
+    3300008: objArch31_#4
+    3300010: objArch31_#5
+    3300012: objArch31_#6
+    3300014: objArch31_#7
+    3300016: objArch31_#8
+    3300018: objArch31_#9
+    4300000: Mesh Obj_000001#1
+    4300002: Mesh Obj_000002#1
+    4300004: Mesh objArch31_#5
+    4300006: Mesh objArch31_#3
+    4300008: Mesh objArch31_#4
+    4300010: Mesh Componente#4
+    4300012: Mesh objArch31_#8
+    4300014: Mesh objArch31_#7
+    4300016: Mesh objArch31_#6
+    4300018: Mesh objArch31_#9
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.02032
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,535 @@
+fileFormatVersion: 2
+guid: a69988f340b16614386465504e623e61
+timeCreated: 1457112788
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000
+  assetHash:
+    serializedVersion: 2
+    Hash: eafdb9352fd03c5ac264c104390cfcab
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -1.6482277, y: 3.3082047, z: 3.2383087}
+      lookAt: {x: 2.75882, y: 0.2486683, z: 1.5075556}
+      up: {x: 0.5051769, y: 0.8399023, z: -0.19839506}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Component#2
+    100002: Component#2 1
+    100004: Component#2 2
+    100006: Component#2 3
+    100008: Component#2 4
+    100010: Component#2 5
+    100012: Component#2 6
+    100014: Component#3
+    100016: droplet1
+    100018: droplet1 1
+    100020: droplet1 10
+    100022: droplet1 11
+    100024: droplet1 12
+    100026: droplet1 13
+    100028: droplet1 14
+    100030: droplet1 15
+    100032: droplet1 16
+    100034: droplet1 17
+    100036: droplet1 18
+    100038: droplet1 19
+    100040: droplet1 2
+    100042: droplet1 20
+    100044: droplet1 21
+    100046: droplet1 22
+    100048: droplet1 23
+    100050: droplet1 3
+    100052: droplet1 4
+    100054: droplet1 5
+    100056: droplet1 6
+    100058: droplet1 7
+    100060: droplet1 8
+    100062: droplet1 9
+    100064: droplet2
+    100066: droplet2 1
+    100068: droplet2 10
+    100070: droplet2 11
+    100072: droplet2 12
+    100074: droplet2 13
+    100076: droplet2 14
+    100078: droplet2 15
+    100080: droplet2 16
+    100082: droplet2 17
+    100084: droplet2 18
+    100086: droplet2 19
+    100088: droplet2 2
+    100090: droplet2 20
+    100092: droplet2 21
+    100094: droplet2 22
+    100096: droplet2 23
+    100098: droplet2 24
+    100100: droplet2 25
+    100102: droplet2 26
+    100104: droplet2 27
+    100106: droplet2 28
+    100108: droplet2 29
+    100110: droplet2 3
+    100112: droplet2 30
+    100114: droplet2 31
+    100116: droplet2 32
+    100118: droplet2 33
+    100120: droplet2 34
+    100122: droplet2 35
+    100124: droplet2 4
+    100126: droplet2 5
+    100128: droplet2 6
+    100130: droplet2 7
+    100132: droplet2 8
+    100134: droplet2 9
+    100136: fountain section
+    100138: fountain section 1
+    100140: fountain section 2
+    100142: fountain section 3
+    100144: fountain section 4
+    100146: fountain section 5
+    100148: fountain section 6
+    100150: fountain section 7
+    100152: //RootNode
+    100154: Group 101
+    100156: Group 130
+    100158: Group 159
+    100160: Group 188
+    100162: Group 2
+    100164: Group 4
+    100166: Group 43
+    100168: Group 6
+    100170: Group 72
+    100172: ske1410
+    100174: ske1410 1
+    100176: ske1410 2
+    100178: ske1410 3
+    100180: ske1410 4
+    100182: ske1410 5
+    100184: ske3D9E
+    100186: splash
+    100188: splash 1
+    100190: splash 10
+    100192: splash 11
+    100194: splash 12
+    100196: splash 13
+    100198: splash 14
+    100200: splash 15
+    100202: splash 16
+    100204: splash 17
+    100206: splash 2
+    100208: splash 3
+    100210: splash 4
+    100212: splash 5
+    100214: splash 6
+    100216: splash 7
+    100218: splash 8
+    100220: splash 9
+    400000: Component#2
+    400002: Component#2 1
+    400004: Component#2 2
+    400006: Component#2 3
+    400008: Component#2 4
+    400010: Component#2 5
+    400012: Component#2 6
+    400014: Component#3
+    400016: droplet1
+    400018: droplet1 1
+    400020: droplet1 10
+    400022: droplet1 11
+    400024: droplet1 12
+    400026: droplet1 13
+    400028: droplet1 14
+    400030: droplet1 15
+    400032: droplet1 16
+    400034: droplet1 17
+    400036: droplet1 18
+    400038: droplet1 19
+    400040: droplet1 2
+    400042: droplet1 20
+    400044: droplet1 21
+    400046: droplet1 22
+    400048: droplet1 23
+    400050: droplet1 3
+    400052: droplet1 4
+    400054: droplet1 5
+    400056: droplet1 6
+    400058: droplet1 7
+    400060: droplet1 8
+    400062: droplet1 9
+    400064: droplet2
+    400066: droplet2 1
+    400068: droplet2 10
+    400070: droplet2 11
+    400072: droplet2 12
+    400074: droplet2 13
+    400076: droplet2 14
+    400078: droplet2 15
+    400080: droplet2 16
+    400082: droplet2 17
+    400084: droplet2 18
+    400086: droplet2 19
+    400088: droplet2 2
+    400090: droplet2 20
+    400092: droplet2 21
+    400094: droplet2 22
+    400096: droplet2 23
+    400098: droplet2 24
+    400100: droplet2 25
+    400102: droplet2 26
+    400104: droplet2 27
+    400106: droplet2 28
+    400108: droplet2 29
+    400110: droplet2 3
+    400112: droplet2 30
+    400114: droplet2 31
+    400116: droplet2 32
+    400118: droplet2 33
+    400120: droplet2 34
+    400122: droplet2 35
+    400124: droplet2 4
+    400126: droplet2 5
+    400128: droplet2 6
+    400130: droplet2 7
+    400132: droplet2 8
+    400134: droplet2 9
+    400136: fountain section
+    400138: fountain section 1
+    400140: fountain section 2
+    400142: fountain section 3
+    400144: fountain section 4
+    400146: fountain section 5
+    400148: fountain section 6
+    400150: fountain section 7
+    400152: //RootNode
+    400154: Group 101
+    400156: Group 130
+    400158: Group 159
+    400160: Group 188
+    400162: Group 2
+    400164: Group 4
+    400166: Group 43
+    400168: Group 6
+    400170: Group 72
+    400172: ske1410
+    400174: ske1410 1
+    400176: ske1410 2
+    400178: ske1410 3
+    400180: ske1410 4
+    400182: ske1410 5
+    400184: ske3D9E
+    400186: splash
+    400188: splash 1
+    400190: splash 10
+    400192: splash 11
+    400194: splash 12
+    400196: splash 13
+    400198: splash 14
+    400200: splash 15
+    400202: splash 16
+    400204: splash 17
+    400206: splash 2
+    400208: splash 3
+    400210: splash 4
+    400212: splash 5
+    400214: splash 6
+    400216: splash 7
+    400218: splash 8
+    400220: splash 9
+    2300000: Component#2
+    2300002: Component#2 1
+    2300004: Component#2 2
+    2300006: Component#2 3
+    2300008: Component#2 4
+    2300010: Component#2 5
+    2300012: Component#2 6
+    2300014: Component#3
+    2300016: droplet1
+    2300018: droplet1 1
+    2300020: droplet1 10
+    2300022: droplet1 11
+    2300024: droplet1 12
+    2300026: droplet1 13
+    2300028: droplet1 14
+    2300030: droplet1 15
+    2300032: droplet1 16
+    2300034: droplet1 17
+    2300036: droplet1 18
+    2300038: droplet1 19
+    2300040: droplet1 2
+    2300042: droplet1 20
+    2300044: droplet1 21
+    2300046: droplet1 22
+    2300048: droplet1 23
+    2300050: droplet1 3
+    2300052: droplet1 4
+    2300054: droplet1 5
+    2300056: droplet1 6
+    2300058: droplet1 7
+    2300060: droplet1 8
+    2300062: droplet1 9
+    2300064: droplet2
+    2300066: droplet2 1
+    2300068: droplet2 10
+    2300070: droplet2 11
+    2300072: droplet2 12
+    2300074: droplet2 13
+    2300076: droplet2 14
+    2300078: droplet2 15
+    2300080: droplet2 16
+    2300082: droplet2 17
+    2300084: droplet2 18
+    2300086: droplet2 19
+    2300088: droplet2 2
+    2300090: droplet2 20
+    2300092: droplet2 21
+    2300094: droplet2 22
+    2300096: droplet2 23
+    2300098: droplet2 24
+    2300100: droplet2 25
+    2300102: droplet2 26
+    2300104: droplet2 27
+    2300106: droplet2 28
+    2300108: droplet2 29
+    2300110: droplet2 3
+    2300112: droplet2 30
+    2300114: droplet2 31
+    2300116: droplet2 32
+    2300118: droplet2 33
+    2300120: droplet2 34
+    2300122: droplet2 35
+    2300124: droplet2 4
+    2300126: droplet2 5
+    2300128: droplet2 6
+    2300130: droplet2 7
+    2300132: droplet2 8
+    2300134: droplet2 9
+    2300136: fountain section
+    2300138: fountain section 1
+    2300140: fountain section 2
+    2300142: fountain section 3
+    2300144: fountain section 4
+    2300146: fountain section 5
+    2300148: fountain section 6
+    2300150: fountain section 7
+    2300152: //RootNode
+    2300154: Group 101
+    2300156: Group 130
+    2300158: Group 159
+    2300160: Group 188
+    2300162: Group 2
+    2300164: Group 4
+    2300166: Group 43
+    2300168: Group 6
+    2300170: Group 72
+    2300172: ske3D9E
+    2300174: splash
+    2300176: splash 1
+    2300178: splash 10
+    2300180: splash 11
+    2300182: splash 12
+    2300184: splash 13
+    2300186: splash 14
+    2300188: splash 15
+    2300190: splash 16
+    2300192: splash 17
+    2300194: splash 2
+    2300196: splash 3
+    2300198: splash 4
+    2300200: splash 5
+    2300202: splash 6
+    2300204: splash 7
+    2300206: splash 8
+    2300208: splash 9
+    3300000: Component#2
+    3300002: Component#2 1
+    3300004: Component#2 2
+    3300006: Component#2 3
+    3300008: Component#2 4
+    3300010: Component#2 5
+    3300012: Component#2 6
+    3300014: Component#3
+    3300016: droplet1
+    3300018: droplet1 1
+    3300020: droplet1 10
+    3300022: droplet1 11
+    3300024: droplet1 12
+    3300026: droplet1 13
+    3300028: droplet1 14
+    3300030: droplet1 15
+    3300032: droplet1 16
+    3300034: droplet1 17
+    3300036: droplet1 18
+    3300038: droplet1 19
+    3300040: droplet1 2
+    3300042: droplet1 20
+    3300044: droplet1 21
+    3300046: droplet1 22
+    3300048: droplet1 23
+    3300050: droplet1 3
+    3300052: droplet1 4
+    3300054: droplet1 5
+    3300056: droplet1 6
+    3300058: droplet1 7
+    3300060: droplet1 8
+    3300062: droplet1 9
+    3300064: droplet2
+    3300066: droplet2 1
+    3300068: droplet2 10
+    3300070: droplet2 11
+    3300072: droplet2 12
+    3300074: droplet2 13
+    3300076: droplet2 14
+    3300078: droplet2 15
+    3300080: droplet2 16
+    3300082: droplet2 17
+    3300084: droplet2 18
+    3300086: droplet2 19
+    3300088: droplet2 2
+    3300090: droplet2 20
+    3300092: droplet2 21
+    3300094: droplet2 22
+    3300096: droplet2 23
+    3300098: droplet2 24
+    3300100: droplet2 25
+    3300102: droplet2 26
+    3300104: droplet2 27
+    3300106: droplet2 28
+    3300108: droplet2 29
+    3300110: droplet2 3
+    3300112: droplet2 30
+    3300114: droplet2 31
+    3300116: droplet2 32
+    3300118: droplet2 33
+    3300120: droplet2 34
+    3300122: droplet2 35
+    3300124: droplet2 4
+    3300126: droplet2 5
+    3300128: droplet2 6
+    3300130: droplet2 7
+    3300132: droplet2 8
+    3300134: droplet2 9
+    3300136: fountain section
+    3300138: fountain section 1
+    3300140: fountain section 2
+    3300142: fountain section 3
+    3300144: fountain section 4
+    3300146: fountain section 5
+    3300148: fountain section 6
+    3300150: fountain section 7
+    3300152: //RootNode
+    3300154: Group 101
+    3300156: Group 130
+    3300158: Group 159
+    3300160: Group 188
+    3300162: Group 2
+    3300164: Group 4
+    3300166: Group 43
+    3300168: Group 6
+    3300170: Group 72
+    3300172: ske3D9E
+    3300174: splash
+    3300176: splash 1
+    3300178: splash 10
+    3300180: splash 11
+    3300182: splash 12
+    3300184: splash 13
+    3300186: splash 14
+    3300188: splash 15
+    3300190: splash 16
+    3300192: splash 17
+    3300194: splash 2
+    3300196: splash 3
+    3300198: splash 4
+    3300200: splash 5
+    3300202: splash 6
+    3300204: splash 7
+    3300206: splash 8
+    3300208: splash 9
+    4300000: Mesh Fountain+4
+    4300002: Mesh Group 2
+    4300004: Mesh Group 4
+    4300006: Mesh Group 6
+    4300008: Mesh Component#2
+    4300010: Mesh Component#3
+    4300012: Mesh ske3D9E
+    4300014: Mesh fountain section
+    4300016: Mesh Group 43
+    4300018: Mesh droplet1
+    4300020: Mesh droplet2
+    4300022: Mesh splash
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
